@@ -3,8 +3,8 @@
   
 <div align="center">
   <a href="https://github.com/Koonac">
-    <img height="165px" src='https://github-readme-stats.vercel.app/api?username=Koonac&hide=contribs,prs&count_private=true&show_icons=true&theme=react&line_height=30' />
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koonac&layout=compact&theme=react" />
+    <img height="150px" src='https://github-readme-stats.vercel.app/api?username=Koonac&hide=contribs,prs&count_private=true&show_icons=true&theme=react&line_height=30' />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koonac&layout=compact&theme=react" />
   </a>
 </div>
 
