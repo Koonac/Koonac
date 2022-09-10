@@ -13,6 +13,9 @@
 <div align="center">
   <h3> Meus Principais projetos </h3>
   <a href="https://github.com/Koonac/fakeinsta">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/pin/?username=Koonac&repo=galaxPay-integration&theme=react" />
+  </a>
+  <a href="https://github.com/Koonac/fakeinsta">
     <img height="165px" src="https://github-readme-stats.vercel.app/api/pin/?username=Koonac&repo=fakeinsta&theme=react" />
   </a>
 </div>
@@ -21,7 +24,7 @@
   
 <div align="left">
   <h3> Contate-me: </h3>
-  <a href="https://www.linkedin.com/in/ednilson-rodrigues/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644243999~hmac=4da9ef226fac1d19025540d1f8295840" width="40px" height="40px"/> </a>
+  <a href="https://www.linkedin.com/in/ednilson-rodrigues/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" height="40px"/> </a>
   <a href="https://wa.me/5514998617696" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width="40px" height="40px"/> </a>
   <a href="mailto:ednilson.hr.santos@hotmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1917/1917737.png" width="40px" height="40px"/> </a>
 </div>
