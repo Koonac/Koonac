@@ -31,7 +31,7 @@
 
 <div align="left">
   <h3> Ferramentas/Sistemas </h3>
-  <a href="https://vuejs.org" target="_blank"> <img src="https://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png" width="40px" height="40px"/> </a>
+  <a href="https://vuejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="40px" height="40px"/> </a>
   <a href="https://laravel.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="40px" height="40px"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="40px" height="40px"/> </a>
   <a href="https://www.javascript.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="40px" height="40px"/> </a>
