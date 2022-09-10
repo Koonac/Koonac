@@ -13,10 +13,10 @@
 <div align="center">
   <h3> Meus Principais projetos </h3>
   <a href="https://github.com/Koonac/fakeinsta">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/pin/?username=Koonac&repo=galaxPay-integration&theme=react" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Koonac&repo=galaxPay-integration&theme=react" />
   </a>
   <a href="https://github.com/Koonac/fakeinsta">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/pin/?username=Koonac&repo=fakeinsta&theme=react" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Koonac&repo=fakeinsta&theme=react" />
   </a>
 </div>
 
